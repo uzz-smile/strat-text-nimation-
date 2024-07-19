@@ -1,0 +1,71 @@
+.container {display: inline-block;}
+
+.text{
+    font-size: 5em;
+    letter-spacing: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-right: 5px solid;
+    width: 100%;
+    white-space: nowrap;overflow: hidden;
+    animation: 
+    typing 2s steps(15),
+    cursor .4s step-end infinite alternate;
+}
+/* cursor going toooo */
+@keyframes cursor {
+    50% { border-color: transparent;}
+    
+}
+
+/* typing efekt togooo */
+
+@keyframes typing {
+    from { width: 0;}    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
